@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4KzpjLvJjJknJ5Xuak/giphy.gif" width="100"/>
 </div>
-
+<br/>
 <div id="badges" align= "center">
   <a href="https://www.linkedin.com/in/junior-david-roche/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<br/>
 
 <div id="badges" align= "center">
   <img src="https://komarev.com/ghpvc/?username=DJRoche509&style=flat-square&color=blue" alt=""/>
@@ -22,13 +23,15 @@
   Hey there! 
   <img src="https://media.giphy.com/media/OpBA2nKQog7LENz8Of/giphy.gif" width="100"/>
 </h1>
-
+<br/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
+<br/>
+
 
 ### :man_technologist: About Me :
 I am a Cloud/DevOps engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Haiti :haiti: living in the U.S :us:.
@@ -43,7 +46,8 @@ I am a Cloud/DevOps engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/junior-david-roche/)   |   [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Coolyo509)  
 
-- ⚡ Fun fact: I love playing ping-pong and bike riding on the weekend
+- ⚡ Fun fact: I love playing ping-pong and bike riding on the weekend 
+<br/>
 
 
 ---
@@ -69,20 +73,27 @@ I am a Cloud/DevOps engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"  title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"  title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="65" height="65"/>
 </div>
+<br/>
 
 ---
+
+<br/>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DJRoche509&theme=dark&background=000000)](https://git.io/streak-stats)
+<!--
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DJRoche509&theme=tokyonight_duo&fire=5B2AFF&sideNums=3CA98D&currStreakNum=443EFF&dates=3D502DF4&currStreakLabel=511467&background=CAE2E550&sideLabels=177F44)](https://git.io/streak-stats) 
+-->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJRoche509&layout=compact&theme=vision-friendly-dark)](https://github.com/DJRoche509/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJRoche509&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djroche509&repo=github-readme-stats)](https://github.com/djroche509/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DJRoche509&repo=github-readme-stats&show_owner-true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+<br/>
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
@@ -96,13 +107,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-
-### Hi there 👋
 
