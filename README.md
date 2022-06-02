@@ -86,6 +86,7 @@ I am a Cloud/DevOps engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [DockerCon 2022 | What Happened | What I learned](https://medium.com/strategio/dockercon-2022-what-happened-what-i-learned-b222555c7b89?source=rss-99edd96d10bd------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
