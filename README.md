@@ -90,7 +90,7 @@ I am a Cloud/DevOps engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJRoche509&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DJRoche509&repo=github-readme-stats&show_owner-true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/?username=DJRoche509&repo=github-readme-stats&show_owner-true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <br/>
