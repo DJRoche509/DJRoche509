@@ -38,7 +38,7 @@ I am a Cloud/DevOps engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :telescope: I’m working as a Technologist and contributing to automation and testing of web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Data Analytics Projects.
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
