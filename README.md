@@ -82,7 +82,6 @@ I am a Cloud/DevOps engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"  title="Windows" alt="Windows" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" **alt="Tableau" width="50" height="50"/>&nbsp;
 </div>
 <br/>
 
