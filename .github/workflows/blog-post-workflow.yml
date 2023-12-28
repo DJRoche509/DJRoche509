@@ -13,10 +13,10 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Generate blog post list
-        id: blog_post_list
+        run: |
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "Dave-BLOG"
+          comment_tag_name: "BLOG-POST-LIST"
           readme_path: ./README.md
           max_post_count: "5"
           feed_list: "https://medium.com/feed/@davjroche"
@@ -25,7 +25,7 @@ jobs:
           echo "## Latest Medium Blog Posts\n" > blog_posts.md
           echo "| Title | Date |" >> blog_posts.md
           echo "|-------|------|" >> blog_posts.md
-          cat ./readme.md >> blog_posts.md
+          cat ./README.md >> blog_posts.md
       - name: Update README with customized blog posts
         run: |
-          cat blog_posts.md > ./readme.md
+          cat blog_posts.md > ./README.md
