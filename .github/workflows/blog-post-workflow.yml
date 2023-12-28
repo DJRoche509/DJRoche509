@@ -3,29 +3,42 @@ on:
   schedule:  # Run workflow automatically
     - cron: '0 * * * *'  # Runs every hour, on the hour
   workflow_dispatch:  # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+
+# Define permissions for writing contents to the README file
 permissions:
-  contents: write # To write the generated contents to the readme
+  contents: write    # To write the generated contents to the readme
   
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Generate blog post list
+       # Step 1: Checkout the repository content
+      - name: Checkout repository content
+        uses: actions/checkout@v3
+
+      # Step 2: Generate or fetch blog post list 
+      - name: Generate / Fetch blog post list
         run: |
-      - uses: gautamkrishnar/blog-post-workflow@master
+
+      # Step 3: Fetch and update the latest blog posts from the Medium feed
+      - name: Fetch and update blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "BLOG-POST-LIST"
-          readme_path: ./README.md
-          max_post_count: "5"
-          feed_list: "https://medium.com/feed/@davjroche"
+          comment_tag_name: "BLOG-POST-LIST"     # Define the comment tag names for insertion
+          readme_path: ./README.md               # Path to the README file        
+          max_post_count: "5"                    # Maximum number of posts to display
+          feed_list: "https://medium.com/feed/@davjroche"        # Medium RSS feed URL
+
+      # Step 4: Customize the blog post template
       - name: Customize blog post template
         run: |
           echo "## Latest Medium Blog Posts\n" > blog_posts.md
           echo "| Title | Date |" >> blog_posts.md
           echo "|-------|------|" >> blog_posts.md
           cat ./README.md >> blog_posts.md
+
+      # Step 5: Update README with customized blog posts
       - name: Update README with customized blog posts
         run: |
-          cat blog_posts.md > ./README.md
+          cat blog_posts.md >> ./README.md
