@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule:  # Run workflow automatically
-    - cron: '0 * * * *'  # Runs every hour, on the hour
+    - cron: '0 9 */2 * *'  # Runs every two days at 9:00 AM        -    Use '0 * * * *' to Run every hour, on the hour   OR '0 */24 * * *' to run every 24 hrs, on the hour     OR   '30 9 * * *'  to run every day at 9:30 AM
   workflow_dispatch:  # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 
 # Define permissions for writing contents to the README file
